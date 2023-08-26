@@ -35,7 +35,7 @@
 
 <div class="container-fluid">
   <h1>AREZ NAWZAD</h1>
-     <h5>Information Technology</h5>
+     <h5>Information Technology and HRM</h5>
     <div class="container mt-4">
     <img class="rounded-circle" src="1.png" width="304" height="236">
     </div><br>
@@ -137,7 +137,8 @@ Publisher
     
     
     <dt>Courses</dt>
-    Project Management Professional (PMP)<br>
+Human Resource Management (HRM) -certificate-  <br> 
+Project Management Professional (PMP)<br>
 Ethical Hacking & Cyber Security<br>
 Design System Bank in Adobe XD<br>
 Hardware Reparation { Computer Cases - solder machine – Check parts –
