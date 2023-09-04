@@ -52,7 +52,7 @@ Graduation Year: 2020</p><br>
     <p >
     <dl>
    <dt>IT Worker:</dt>  <br>
-1.Network work  <br> 2.website creation <br> 3.design and video editing <br>
+1.Network work  <br> 2.website creation <br> 3.design and video editing <br>4.ZKBioTime System Creation and management(FingerPrint)<br> 5.Hardware <br>6.Some of the work in the administration <br>
 <dt>Teacher:</dt><br>
 1.Computer Repairs Teacher.<br>
 2.Excel & Access Teacher.<br>
@@ -84,7 +84,8 @@ https://areznawzad.github.io/platformgame/ <a href="https://areznawzad.github.io
     <img src="9.png" width="304" height="236">
             <div class="container mt-4">
     <img src="10.png" width="304" height="236">
-    <dt>1. Graphical</dt> 
+                <br><br><br>
+    <dt>2. Graphical</dt> 
   Photoshop<br>
   Illustrator<br>
   InDesign<br>
@@ -93,7 +94,7 @@ https://areznawzad.github.io/platformgame/ <a href="https://areznawzad.github.io
  Paint 3D<br>
     
     <br><br>
-   <dt>2. Microsoft</dt> 
+   <dt>3. Microsoft</dt> 
  Word <br>
  Excel <br>
  Access<br>
@@ -103,42 +104,42 @@ Project <br>
 Publisher
     
     <br><br><br>
-    <dt>3. Web Pentester</dt><br>
+    <dt>4. Web Pentester</dt><br>
      <div class="container mt-4">
     <img src="2.png" width="304" height="236">
     </div><br><br><br>
     
-   <dt>4. Application Software Skills</dt>
+   <dt>5. Application Software Skills</dt>
      <div class="container mt-4">
     <img src="3.png" width="304" height="236">
     </div><br><br><br>
     
     
-    <dt>5. Hardware Reparation</dt>
+    <dt>6. Hardware Reparation</dt>
     <div class="container mt-4">
     <img src="4.jpg" width="304" height="236">
         <img src="5.png" width="304" height="236">
     </div><br><br><br>
     
-    <dt>6. Social Media</dt>
+    <dt>7. Social Media</dt>
       <div class="container mt-4">
     <img src="6.png" width="304" height="236">
     </div><br><br><br>
     
     
-    <dt>7. Writing</dt>
+    <dt>8. Writing</dt>
  Typing….<br><br><br>
     
     
-    <dt>8. Web Design ---- MySql</dt>
+    <dt>9. Web Design ---- MySql</dt>
 <div class="container mt-4">
     <img src="7.png" width="390" height="236">
         <img src="8.jpg" width="390" height="236">
     </div><br><br><br>
     
     
-    <dt>9.Database Management</dt><br><br><br>
-    <dt>10. Windows</dt><br><br><br>
+    <dt>10.Database Management</dt><br><br><br>
+    <dt>11. Windows</dt><br><br><br>
     
     
     <dt>Courses</dt>
