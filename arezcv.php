@@ -79,6 +79,11 @@ https://areznawzad.github.io/platformgame/ <a href="https://areznawzad.github.io
     </p><br>
     
     <h3>COMPUTER SKILLS</h3>
+       <dt>1. ZKBioTime System managment</dt>
+      <div class="container mt-4">
+    <img src="9.png" width="304" height="236">
+            <div class="container mt-4">
+    <img src="10.png" width="304" height="236">
     <dt>1. Graphical</dt> 
   Photoshop<br>
   Illustrator<br>
