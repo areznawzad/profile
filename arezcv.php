@@ -52,30 +52,23 @@ Graduation Year: 2020</p><br>
     <p >
     <dl>
    <dt>IT Worker:</dt>  <br>
-1.Network work  <br> 2.website creation <br> 3.design and video editing <br>4.ZKBioTime System Creation and management(FingerPrint)<br> 5.Hardware <br>6.Some of the work in the administration <br>
+1.Networking <br> 2.website creation <br> 3.design and video editing <br>4.ZKBioTime System Creation and management(FingerPrint)<br> 5.Hardware <br>6.Some of the work in the administration <br>
 <dt>Teacher:</dt><br>
 1.Computer Repairs Teacher.<br>
 2.Excel & Access Teacher.<br>
 3.Web Designs Teacher (Online) {Html – Css – Php – Bootstrap – Js} <br>
 <dt>Secretery:</dt> <br>
 1. Secretery And Nursery at Dental Clinic <br>
-2.Accountant and telephone work at company<br>
-<dt>Artist:</dt><br>
-1.Drawing and special lessons for children <br>
-2.Ceramic handicraft <br>
-3.carpenter <br>
-4.carpet knitting and wool <br>
-5.open a special exhibitions in sulaymaniah as a charity work to help 
-poor children and peshmarga (selling handicraft) <br>
-6.Makeup Artist <br>
-<dt>Create Website:</dt> <br>
+2.Accountant and service provider at company<br>
+
+<dt>My Websites links:</dt> <br>
 http://cvbyarez.epizy.com/cv.php  <a href="http://cvbyarez.epizy.com/cv.php" class="btn btn-info" role="button">Click Here</a> <br>
 https://areznawzad.github.io/platformgame/ <a href="https://areznawzad.github.io/platformgame/" class="btn btn-info" role="button">Click Here</a><br><br>
-        <dt>The Book Writer</dt>
+   
     </dl>
     <br>
     <h3>SKILLS</h3>
-    <p>Enterprise System<br> Advertising <br>IT Support <br>Leadship <br>Presentations
+    <p>Enterprise System<br> Advertising <br>IT Support <br>Leader ship <br>Presentations <br> Communication <br> Management <br>Decision making <br>Creativity <br> 
     </p><br>
     
     <h3>COMPUTER SKILLS</h3>
